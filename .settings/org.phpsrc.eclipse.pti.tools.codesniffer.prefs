@@ -1,0 +1,12 @@
+#Thu Jul 14 11:11:55 BRT 2011
+active_standards=Zend
+custom_standard_names=
+custom_standard_paths=
+debug_print_output=true
+default_tab_width=0
+eclipse.preferences.version=1
+file_extension=
+ignore_pattern=
+pear_library=php
+php_executable=php
+pref_ignore_sniffs=

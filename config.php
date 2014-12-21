@@ -1,3 +1,4 @@
 <?php
 // esta é um teste de criação do arquivo
-echo "pronto";
+echo "Adicionado ignore";
+
